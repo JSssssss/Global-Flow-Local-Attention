@@ -4,9 +4,9 @@ imageio
 natsort
 scipy
 scikit-image
-pillow<7.0.0
+pillow==6.2.2
 pandas
-dominate
+dominate==2.5.1
 opencv-python
-visdom
+visdom==0.1.8.9
 IPython
